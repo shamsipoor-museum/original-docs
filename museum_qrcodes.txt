@@ -37,7 +37,7 @@ https://shamsipoor-museum.github.io/fa_IR/parts/miller_big_rf_trans
 https://shamsipoor-museum.github.io/fa_IR/parts/opaque_projector
 https://shamsipoor-museum.github.io/fa_IR/parts/panasonic_sd350_dvd_player
 https://shamsipoor-museum.github.io/fa_IR/parts/pintek_ps-350_analog_oscilloscope
-https://shamsipoor-museum.github.io/fa_IR/parts/polaroid_camera.png
+https://shamsipoor-museum.github.io/fa_IR/parts/polaroid_camera
 https://shamsipoor-museum.github.io/fa_IR/parts/pulse_generator_pm5705
 https://shamsipoor-museum.github.io/fa_IR/parts/scotch_m3_magnetic_tape
 https://shamsipoor-museum.github.io/fa_IR/parts/stancor_filter_choke_c-2727
